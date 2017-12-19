@@ -1,4 +1,6 @@
 /* Recode new SAT (1600 scale) to old SAT (2400 scale) */
+IF NEW_SAT = . THEN OLD_SAT = .;
+    ELSE
 IF NEW_SAT = 400 THEN OLD_SAT = 600;
     ELSE
 IF NEW_SAT = 410 THEN OLD_SAT = 610;

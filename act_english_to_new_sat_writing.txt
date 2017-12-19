@@ -1,4 +1,6 @@
 /* Recode ACT Enlish/Writing test to new SAT writing and language section */
+IF ACT = . THEN NEW_SAT = .;
+    ELSE
 IF ACT = 36 THEN NEW_SAT = 40;
     ELSE
 IF ACT = 35 THEN NEW_SAT = 40;
