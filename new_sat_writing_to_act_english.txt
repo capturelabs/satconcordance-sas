@@ -1,4 +1,4 @@
-** Recode new SAT writing and language section to ACT Enlish/Writing test;
+/* Recode new SAT writing and language section to ACT Enlish/Writing test */
 IF NEW_SAT = 40 THEN ACT = 34;
 IF NEW_SAT = 39 THEN ACT = 33;
 IF NEW_SAT = 38 THEN ACT = 33;

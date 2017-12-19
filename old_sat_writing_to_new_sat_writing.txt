@@ -1,4 +1,4 @@
-** Recode old SAT writing test to new SAT writing and language section;
+/* Recode old SAT writing test to new SAT writing and language section */
 IF OLD_SAT = 200 THEN NEW_SAT = 10;
 IF OLD_SAT = 210 THEN NEW_SAT = 11;
 IF OLD_SAT = 220 THEN NEW_SAT = 11;

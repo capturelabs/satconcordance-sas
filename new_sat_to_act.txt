@@ -1,4 +1,4 @@
-** Recode new SAT (1600 scale) to ACT;
+/* Recode new SAT (1600 scale) to ACT */
 IF NEW_SAT = 1600 THEN ACT = 36;
 IF NEW_SAT = 1590 THEN ACT = 35;
 IF NEW_SAT = 1580 THEN ACT = 35;

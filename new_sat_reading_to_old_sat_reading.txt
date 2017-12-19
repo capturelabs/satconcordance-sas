@@ -1,4 +1,4 @@
-** Recode new SAT reading test to old SAT critical reading section;
+ /* Recode new SAT reading test to old SAT critical reading section */
 IF NEW_SAT = 10 THEN OLD_SAT = 200;
 IF NEW_SAT = 11 THEN OLD_SAT = 210;
 IF NEW_SAT = 12 THEN OLD_SAT = 220;

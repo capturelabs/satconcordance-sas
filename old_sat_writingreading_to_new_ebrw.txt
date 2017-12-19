@@ -1,4 +1,4 @@
-** Recode old SAT writing plus critical reading sections to new SAT EBRW section;
+/* Recode old SAT writing plus critical reading sections to new SAT EBRW section */
 IF OLD_SAT = 400 THEN NEW_SAT = 200;
 IF OLD_SAT = 410 THEN NEW_SAT = 210;
 IF OLD_SAT = 420 THEN NEW_SAT = 220;

@@ -1,4 +1,4 @@
-** Recode new SAT math section to old SAT math section;
+/* Recode new SAT math section to old SAT math section */
 IF NEW_SAT = 200 THEN OLD_SAT = 200;
 IF NEW_SAT = 210 THEN OLD_SAT = 200;
 IF NEW_SAT = 220 THEN OLD_SAT = 210;
